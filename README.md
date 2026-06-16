@@ -21,10 +21,12 @@ Eklenti paneli içindeki veriler, takibi kolaylaştırmak adına şu özel simge
 
 *    **Aktif Oyuncular:** Aranan veya odada bulunan hedef kullanıcıların isimlerini belirtir.
 *    **Oda / Bağlantı ID:** Hedefin oynadığı odanın benzersiz ID'sini ve doğrudan giriş linkini gösterir.
-*    **Oda Bilgileri & Analiz:** Odanın aktif modunu, oyuncu sınırını ve o anki dil verilerini raporlar.
-*    **Yetkili Erişimi:** Geliştirici modunu veya eklentinin kilitli sorgu özelliklerini aktifleştirmiş yetkili personeli doğrular.
-
----
+*    **Oda Bilgileri & Analiz:** Odanın kişi sayısını ve o anki dil verilerini raporlar.
+*    **Kolaylaştırılmış Linkler:** Odanın izleme ve katılma linklerini sunar.
+*    **Çoklu Dil Seçeneği:** Oda dillerini ayarlayabilme seçeneği sunar.
+*    **Çeşitli Temalar:** Panel arayüzünde özelleştirme imkanı! ➡ Koyu, Açık, Okyanus Mavisi, Orman Yeşili, Mor Akşam, Açık Mavi, Pembe
+   
+  ---
 
 ## 🚀 Kurulum ve Kullanım
 
